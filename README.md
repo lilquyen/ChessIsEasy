@@ -12,7 +12,7 @@ Dự án được chia thành hai phần chính:
 
 ---
 ## I. Demo:
-[Link bản demo tại mục releases](https://github.com/lilquyen/ChessIsEasy/releases/tag/ChessGame)
+[Link bản demo tại mục releases](https://github.com/lilquyen/ChessIsEasy/releases/tag/ChessGame1.2)
 ---
 ###  Cách chạy demo
 1. Tải file `.zip` từ link trên.
