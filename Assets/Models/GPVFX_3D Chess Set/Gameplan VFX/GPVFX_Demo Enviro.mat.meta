@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ec5fec4779579485787e926a584bdc7d
+timeCreated: 1498327196
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: -1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93915
+  packageName: 2D/3D Chess Pack
+  packageVersion: 1.1
+  assetPath: Assets/GPVFX_3D Chess Set/Gameplan VFX/GPVFX_Demo Enviro.mat
+  uploadId: 191830

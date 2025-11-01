@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ee18544d8ac514d3ca38bcbe875280ad
+timeCreated: 1498325103
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93915
+  packageName: 2D/3D Chess Pack
+  packageVersion: 1.1
+  assetPath: Assets/GPVFX_3D Chess Set/3D/Materials/Chessboard Base.mat
+  uploadId: 191830

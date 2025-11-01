@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.chess.chess_sever.ChessSeverApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.016 s -- in com.chess.chess_sever.ChessSeverApplicationTests

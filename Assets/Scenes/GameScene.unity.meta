@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b3a246240ed6c44f29381dd4d60ed36d
+timeCreated: 1496849504
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93915
+  packageName: 2D/3D Chess Pack
+  packageVersion: 1.1
+  assetPath: Assets/GPVFX_3D Chess Set/Chess Set.unity
+  uploadId: 191830

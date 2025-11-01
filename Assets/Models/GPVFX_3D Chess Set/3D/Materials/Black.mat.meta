@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ce80d7520e4604c6faaad086dc1a7590
+timeCreated: 1496846706
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93915
+  packageName: 2D/3D Chess Pack
+  packageVersion: 1.1
+  assetPath: Assets/GPVFX_3D Chess Set/3D/Materials/Black.mat
+  uploadId: 191830
